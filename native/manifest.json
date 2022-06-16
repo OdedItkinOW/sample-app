@@ -41,7 +41,8 @@
         "https://*.overwolf.com",
         "https://*.google-analytics.com",
         "http://*.google-analytics.com",
-        "https://www.googleapis.com"
+        "https://www.googleapis.com",
+        "https://www.googletagmanager.com"
       ]
     },
     "force_browser": "user",
@@ -136,7 +137,8 @@
       21640,
       7314,
       21626,
-      8954
+      8954,
+      10798
     ],
     "launch_events": [
       {
@@ -156,7 +158,8 @@
             21640,
             7314,
             21626,
-            8954
+            8954,
+            10798
           ]
         },
         "start_minimized": true
