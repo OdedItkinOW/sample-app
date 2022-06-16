@@ -41,6 +41,7 @@
         "https://*.overwolf.com",
         "https://*.google-analytics.com",
         "http://*.google-analytics.com",
+		"https://*.googletagmanager.com",
         "https://www.googleapis.com"
       ]
     },
